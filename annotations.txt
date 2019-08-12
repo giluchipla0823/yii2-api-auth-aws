@@ -1,0 +1,5 @@
+# Lanzar servidor con yii2
+php yii serve --port=8888
+
+# AWS install
+https://docs.aws.amazon.com/es_es/sdk-for-php/v3/developer-guide/getting-started_installation.html
